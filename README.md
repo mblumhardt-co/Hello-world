@@ -8,6 +8,9 @@ format) without ever exposing that machinery to the buyer.
 This is the **sell** side only. A matching **buy** agent (so two carriers'
 agents can negotiate an order automatically) is a future step.
 
+New to running code from a terminal, or working from an iPad? See
+[SETUP.md](SETUP.md) for a plain-language, step-by-step walkthrough.
+
 ## How it works
 
 - `sell_agent/asr.py` -- the order record (a pragmatic subset of ASR/ASOG
